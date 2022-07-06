@@ -7,6 +7,20 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Ciao</h1>
+    <header>
+        <nav>
+            <ul>
+                <li>
+                    <a href="contatti">Contatti</a>
+                </li>
+                <li>
+                    <a href="chi-siamo">Chi siamo</a>
+                </li>
+                <li>
+                    <a href="shop">Shop</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
 </body>
 </html>
